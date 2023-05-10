@@ -313,6 +313,9 @@
 .sec5 .mslogan{
     display: none;
 }
+.sec5 .amsloganbox{
+    display: none;
+}
 /* sec6 */
 
 .swiper {
